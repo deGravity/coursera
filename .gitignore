@@ -10,3 +10,6 @@
 *.lai
 *.la
 *.a
+
+# OS files
+.DS_Store
